@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Atharva+%F0%9F%91%8B;Full+Stack+Dev+in+Progress+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;DSA+Grinder+%E2%9A%94%EF%B8%8F+C%2B%2B+Mode+ON;Building+the+Web%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Atharva+%F0%9F%91%8B;Full+Stack+Dev+in+Progress+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;DSA+Grinder+%E2%9A%94%EF%B8%8F+C%2B%2B+Mode+ON;Building+the+Web%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 </div>
 
