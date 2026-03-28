@@ -70,6 +70,12 @@ const atharva = {
 | [ruxailab/RUXAILAB](https://github.com/ruxailab/RUXAILAB) | Usability Testing & Heuristics Evaluation platform | 🔄 Active |
 | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | Secure CommsOS contributions | 🔄 Active |
 
+---
+
+## 💬 Developer Quote
+
+> *"First, solve the problem. Then, write the code."*
+— John Johnson
 
 ---
 
